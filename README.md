@@ -7,5 +7,5 @@ step 2:
 run command - node .\server_get.js (for running the file)
 
 step 3:
-enter this link in browser: 
-http://localhost:3040/addTwoNumber?n1=786&n2=787
+This will start the server, and you can access it at  
+http://localhost:3040/addTwoNumber?n1=786&n2=787 ( (replace 786 and 787 with your desired numbers).)
